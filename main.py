@@ -3,4 +3,5 @@ def main() -> None:
         print('Hello', i)
 
 if __name__ == '__main__':
+    print('I made a change')
     main()
